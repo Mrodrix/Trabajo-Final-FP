@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\bin\Debug\net8.0\Trabajo final.exe
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\bin\Debug\net8.0\Trabajo final.deps.json
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\bin\Debug\net8.0\Trabajo final.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\bin\Debug\net8.0\Trabajo final.dll
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\bin\Debug\net8.0\Trabajo final.pdb
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.dll
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\refint\Trabajo final.dll
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.pdb
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\Trabajo final.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Trabajo Final FP\Trabajo-Final-FP\Trabajo final\Trabajo final\obj\Debug\net8.0\ref\Trabajo final.dll
